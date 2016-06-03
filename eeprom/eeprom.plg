@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+F:\小天鹅\小天鹅\eeprom\eeprom.uvproj
+Project File Date:  11/28/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling eeprom.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?CO?EEPROM
+*** WARNING L10: CANNOT DETERMINE ROOT SEGMENT
+Program Size: data=0.0 xdata=0 code=12224
+"eeprom" - 0 Error(s), 2 Warning(s).
+Clean started: Project: 'eeprom'
+   deleting intermediate output files for target 'Target 1'
